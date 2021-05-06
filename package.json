@@ -1,5 +1,5 @@
 {
-  "name": "scc-cli",
+  "name": "shicc-cli",
   "version": "1.0.0",
   "description": "koa2-mysql cli",
   "main": "index.js",
