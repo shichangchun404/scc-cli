@@ -1,1 +1,1 @@
-# scc-cli
+# shicc-cli
