@@ -1,7 +1,7 @@
 {
   "name": "shicc-cli",
-  "version": "1.1.5",
-  "description": "koa2-mysql cli",
+  "version": "1.1.7",
+  "description": "select project cli",
   "main": "index.js",
   "bin": {
     "shicc-cli": "./bin/shicc-cli"
@@ -13,9 +13,10 @@
   "author": "shichangchun",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^4.1.1",
     "commander": "^7.2.0",
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.0.0"
   },
-  "repo": "https://github.com/shichangchun404/koa2-mysql.git"
+  "repo": "koa2-mysql"
 }
